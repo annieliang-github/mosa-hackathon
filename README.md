@@ -13,6 +13,6 @@ Check out my Devpost project page here: [Devpost](https://...)
 
 ## Usage
 
-Just download the source code, import it to your favorite IDE (eclipse or intelliJ). Go to snakeGame.java, right click and run java application. Enjoy the game!
+Just download the snakeGame.jar file, open terminal and type: java -jar snakeGame.jar, a game window will prompt. Enjoy!
 
 
